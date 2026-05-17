@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Engineer | FullStack Developer | Software Quality & Testing
+### Student Software Engineer | FullStack Developer | Software Quality & Testing
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+scalable+software+solutions;Passionate+about+Quality+%26+Testing)
 
