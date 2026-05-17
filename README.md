@@ -90,18 +90,6 @@ I'm committed to writing clean, testable, and maintainable code.
 
 ---
 
-## 🎯 Core Competencies
-
-| Category | Skills |
-|----------|--------|
-| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap, JavaScript/TypeScript |
-| **Backend** | Spring Boot, Laravel, Symfony, Node.js, PHP, Java |
-| **Databases** | MySQL, Firebase, Oracle, PostgreSQL |
-| **Testing** | Unit Testing, API Testing, Postman |
-| **DevOps** | Docker, Git, CI/CD, Containerization, Version Control |
-| **Architecture** | MVC, Microservices, API REST, N-3-tier, Design Patterns |
-
----
 
 ## 🔗 Connect With Me
 
