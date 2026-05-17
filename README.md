@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Élève Ingénieur en Ingénierie Logicielle | FullStack Developer | Software Quality & Testing
+### Software Engineer | FullStack Developer | Software Quality & Testing
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+scalable+software+solutions;Passionate+about+Quality+%26+Testing)
 
@@ -12,25 +12,15 @@
 
 ## 💡 About Me
 
+<img align="right" src="https://img.shields.io/badge/📍-Meknes%2C%20Morocco-blue?style=flat-square" alt="Location" />
 
-Élève ingénieur en **Ingénierie Logicielle** avec une passion pour développer des solutions logicielles innovantes, scalables et de haute qualité. 
+Software engineer student with a passion for developing innovative, scalable, and high-quality software solutions.
 
-**Expertise :** 
+**Expertise:** 
 - 🎯 **Full Stack Development** : Frontend (React, Next.js) + Backend (Laravel, Spring Boot, Symfony)
-- ✅ **Software Quality & Testing** : Tests unitaires, tests d'intégration, TDD, assurance qualité
-- 🏗️ **Software Architecture** : MVC, Microservices, API REST, N-3-tier, patterns de conception
+- ✅ **Software Quality & Testing** : Unit testing, integration testing, code quality, best practices
+- 🏗️ **Software Architecture** : MVC, Microservices, API REST, N-3-tier, design patterns
 - 🐳 **DevOps & Cloud** : Docker, Git, CI/CD pipelines, containerization
-
----
-
-## 📚 Education
-
-<table>
-  <tr>
-    <td width="50%"><strong>🎓 Ingénieur Logicielle</strong><br><em>ENSIASD, Taroudant</em><br>2024 – 2026</td>
-    <td width="50%"><strong>🎯 DUT Web & Mobile</strong><br><em>EST, Nador</em><br>2022 – 2024</td>
-  </tr>
-</table>
 
 ---
 
@@ -90,25 +80,14 @@
 
 ## ✅ Software Quality & Testing
 
-I'm committed to writing clean, testable, and maintainable code with comprehensive test coverage.
+I'm committed to writing clean, testable, and maintainable code.
 
-### **Testing Expertise**
-<div align="center">
-
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-JUnit%2C%20PHPUnit-green?style=for-the-badge)
-![Integration Testing](https://img.shields.io/badge/Integration%20Testing-Postman%2C%20API%20Testing-blue?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-Test%20Driven%20Development-orange?style=for-the-badge)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-Clean%20Code%2C%20SOLID-red?style=for-the-badge)
-
-</div>
-
-### **Quality Practices**
-- 🧪 **Unit Testing** : JUnit (Java), PHPUnit (PHP), comprehensive test coverage
-- 🔗 **Integration Testing** : API validation, database testing, end-to-end scenarios
-- 📋 **Code Quality** : SOLID principles, design patterns, code reviews
-- 🔄 **TDD Methodology** : Test-driven development for robust solutions
-- 📊 **Continuous Integration** : Automated testing pipelines with Git & Docker
-- 📝 **Documentation** : Clear specifications, API documentation, technical guides
+### **Testing Practices**
+- 🧪 **Unit Testing** : Writing and maintaining unit tests for code reliability
+- 🔗 **Integration Testing** : API validation and end-to-end testing
+- 📋 **Code Quality** : Following best practices and design principles
+- 🔄 **TDD Approach** : Test-driven development mindset
+- 📊 **Continuous Integration** : Automated testing with Git and Docker
 
 ---
 
@@ -119,7 +98,7 @@ I'm committed to writing clean, testable, and maintainable code with comprehensi
 | **Frontend** | React, Next.js, Tailwind CSS, Bootstrap, JavaScript/TypeScript |
 | **Backend** | Spring Boot, Laravel, Symfony, Node.js, PHP, Java |
 | **Databases** | MySQL, Firebase, Oracle, PostgreSQL |
-| **Testing** | JUnit, PHPUnit, Postman, API Testing, TDD |
+| **Testing** | Unit Testing, API Testing, Postman |
 | **DevOps** | Docker, Git, CI/CD, Containerization, Version Control |
 | **Architecture** | MVC, Microservices, API REST, N-3-tier, Design Patterns |
 
@@ -152,13 +131,6 @@ I'm always interested in discussing:
 
 <div align="center">
 
-⭐ If you found this profile interesting, feel free to star my projects!
 
-```
-╔════════════════════════════════════════╗
-║  Made with ❤️ by Abdelmoughit Mouradi  ║
-║  © 2025 - Always Learning & Growing    ║
-╚════════════════════════════════════════╝
-```
 
 </div>
