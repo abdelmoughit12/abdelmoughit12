@@ -12,7 +12,6 @@
 
 ## 💡 About Me
 
-<img align="right" src="https://img.shields.io/badge/📍-Meknes%2C%20Morocco-blue?style=flat-square" alt="Location" />
 
 Software engineer student with a passion for developing innovative, scalable, and high-quality software solutions.
 
@@ -20,7 +19,7 @@ Software engineer student with a passion for developing innovative, scalable, an
 - 🎯 **Full Stack Development** : Frontend (React, Next.js) + Backend (Laravel, Spring Boot, Symfony)
 - ✅ **Software Quality & Testing** : Unit testing, integration testing, code quality, best practices
 - 🏗️ **Software Architecture** : MVC, Microservices, API REST, N-3-tier, design patterns
-- 🐳 **DevOps & Cloud** : Docker, Git, CI/CD pipelines, containerization
+- 🐳 **DevOps & Cloud** : Docker, Git, Postman
 
 ---
 
@@ -110,7 +109,6 @@ I'm committed to writing clean, testable, and maintainable code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmoughit-mouradi-8b4621280/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouradiabdelmoughit9@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+212%20771%20952%20328-green?style=flat-square)](tel:+212771952328)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212771952328)
 
 </div>
